@@ -43,4 +43,5 @@ Estudo e trabalho com vizualização de dados, geração de reports e insights d
 
 <li>[X] Excel</li>
 <li>[X] Sheets</li>
+<li>[X] Power Automate</li>
 <li>[X] DAS Report Now</li>
