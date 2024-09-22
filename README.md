@@ -12,7 +12,6 @@
 
 <p>
 Sou natural do Rio de Janeiro, formado em Administração de Empresas pela UFRRJ, e apaixonado por tecnologia e pelo mundo dos dados.
-Estudo e trabalho com vizualização de dados, geração de reports e insights desde 2015 e sou estudante e profissional na área de BI e dados desde 2019.
 </p>
 
 
@@ -28,8 +27,9 @@ Estudo e trabalho com vizualização de dados, geração de reports e insights d
 **<h4>Code</h4>**
 
 <li>[X] SQL</li>
-<li>[X] DAX</li>
-<li>[X] AppScript</li>
+<li>[X] Python</li>
+<li>[X] AWS</li>
+<li>[X] Spark</li>
 
 
 **<h4>Visualização de Dados</h4>**
